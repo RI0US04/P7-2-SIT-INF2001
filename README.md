@@ -1,9 +1,7 @@
 # P7-2-SIT-INF2001
 This is a project for our SIT Module INF2001: Introduction to Software Engineering
 
-<h1> Team P7-2 Team Wiki </h1>
-
-<p><b> Group Breakdown: </b></p>
+<h1><b> Team P7-2  Group Breakdown: </b></h1>
 <ul>
 <li> Team Lead: Charisee Yip (@chariseeyip) </li>
 <li> Tech Lead: Wilson (@lmaoggrofl)</li>
