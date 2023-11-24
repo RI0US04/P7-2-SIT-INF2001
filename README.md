@@ -43,5 +43,5 @@ This is a project for our SIT Module INF2001: Introduction to Software Engineeri
 <ul>
   <li><a href="https://www.figma.com/proto/iCLMOZsiNk2EEVxn3MGU2g/Aircon-Workload-Management-System?type=design&node-id=1-9390&t=KRVXtD5Z2NqpJZAL-0&scaling=min-zoom&page-id=0%3A1">Manager Functionality</a></li>
   <li><a href="https://www.figma.com/proto/iCLMOZsiNk2EEVxn3MGU2g/Aircon-Workload-Management-System?type=design&node-id=1-14097&t=KRVXtD5Z2NqpJZAL-0&scaling=min-zoom&page-id=1%3A2">Employee Functionality</a></li>
-  <li><a href="https://www.figma.com/proto/iCLMOZsiNk2EEVxn3MGU2g/Aircon-Workload-Management-System?type=design&node-id=1-15277&t=KRVXtD5Z2NqpJZAL-0&scaling=min-zoom&page-id=1%3A3">It Administrator Functionality</a></li>
+  <li><a href="https://www.figma.com/proto/iCLMOZsiNk2EEVxn3MGU2g/Aircon-Workload-Management-System?type=design&node-id=1-15277&t=KRVXtD5Z2NqpJZAL-0&scaling=min-zoom&page-id=1%3A3">IT Administrator Functionality</a></li>
 </ul>
