@@ -11,6 +11,10 @@ This is a project for our SIT Module INF2001: Introduction to Software Engineeri
 <li> UI/UX Designer:  Eric Koh (@erickmh859)</li>
 </ul>
 
+<h3><a href="/Project%20Team%20Charter.pdf">Project Team Charter</a></h3>
+
+<h3><a href="/Gantt%20Chart.jpg">Project Gantt Chart</a></h3>
+
 <h2><b> Diagrams: </b></h2>
 <h3>M1</h3>
 <ul>
